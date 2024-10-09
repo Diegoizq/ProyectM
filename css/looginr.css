@@ -1,0 +1,11 @@
+.create 
+{
+    border: black 1px;
+    border-radius: 2px;
+background: linear-gradient(145deg, #a2d4d6, #c1fbff);
+box-shadow:  9px 9px 15px #95c3c6,
+             -9px -9px 15px #d3ffff;
+}   
+input {
+    background-color: rgb(255, 255, 255);
+}
