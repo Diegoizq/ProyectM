@@ -268,4 +268,14 @@
 .lnk {
     text-decoration: none;
     color: black;
-}  
+}
+.logb {
+  width:30px ;
+  height:30px ;
+  color: #6B7280;
+}
+.lg {
+  text-decoration: none;
+  color: #34373e;
+  margin: 0 4px 0 16px;  
+}
