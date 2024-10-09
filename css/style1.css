@@ -1,0 +1,69 @@
+.fotos{
+    width: 1920px;
+    height: 500px;
+}
+
+.ft{
+    width: 800px;
+    height: 300px;
+
+}
+
+.nosotros{
+    text-align:justify ;
+    line-height: 2em;
+    background-color: #B0B0B0;
+}
+
+.diseño{
+    background: rgba( 255, 255, 255, 0.3 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6px );
+-webkit-backdrop-filter: blur( 6px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+h5{
+    font-family: "Patua One", serif;
+    color: #fff;
+}
+
+p{
+    font-family: "Patua One", serif;
+    color:#fff;;
+}
+
+h2{
+    font-family: "Patua One", serif;
+    background-color: #C3E5FD;
+    color: #fff;
+}
+    
+
+.cartas{
+    background-color: #B0B0B0;
+    
+}
+
+.card-body{
+
+    background-color: #1e76b4;
+}
+
+.card-title{
+    
+    color: #fff;
+}
+
+.estilo{
+
+    background: rgba(197, 236, 249, 0.45);
+box-shadow: 0 8px 32px 0 rgba(85, 136, 181, 0.37);
+backdrop-filter: blur( 4.5px );
+-webkit-backdrop-filter: blur( 4.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+
