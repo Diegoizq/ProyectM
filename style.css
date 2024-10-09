@@ -1,0 +1,231 @@
+@media(max-width:1000px){
+
+    .d-flex1{
+        display: none !important;
+    }
+
+}
+
+.profesional1{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    border: solid 1px;
+    border-radius: 10px;
+}
+
+
+.cajaprofesional1{
+    display: flex !important;
+    justify-content: start !important; 
+    margin-top: 30px;
+    height: auto;
+    width: auto;
+    border: solid 1px;
+
+}
+
+.img1{
+    width: 195px;
+    height: 195px;
+    border-radius: 10px;
+}
+
+.tx1{
+    text-align: start;
+    text-indent: 10px;
+}
+
+
+.cajalogin{
+    border-radius: 10px;
+    margin-top: 200px;
+    border: solid 1px black;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.p1{
+    border: solid 1px black;
+}
+
+.p2{
+    display: flex;
+    justify-content: center;
+    border: solid 1px black;
+    
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+
+}
+
+
+ 
+.form {
+    background-color: #fff;
+    display: block;
+    padding: 1rem;
+    max-width: 350px;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  }
+  
+  .form-title {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 600;
+    text-align: center;
+    color: #000;
+  }
+  
+  .input-container {
+    position: relative;
+  }
+  
+  .input-container input, .form button {
+    outline: none;
+    border: 1px solid #e5e7eb;
+    margin: 8px 0;
+  }
+  
+  .input-container input {
+    background-color: #fff;
+    padding: 1rem;
+    padding-right: 3rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    width: 300px;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  }
+  
+  .submit {
+    display: block;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    background-color: #4F46E5;
+    color: #ffffff;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    width: 100%;
+    border-radius: 0.5rem;
+    text-transform: uppercase;
+  }
+  
+  .signup-link {
+    color: #6B7280;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    text-align: center;
+  }
+  
+  .signup-link a {
+    text-decoration: underline;
+  }
+
+
+  .barralateral{
+    width: 260px;
+    height: 1200px;
+    border: solid 1px black;
+  }
+
+  .barragrande{
+    width: 1276px;
+    height: auto;
+    border: solid 1px black;
+  }
+
+
+  .chat1{
+    width: 236px;
+    height: 56px;
+    border: solid 1px black;
+  }
+
+
+  .chat2{
+    width: 236px;
+    height: 56px;
+    border: solid 1px black;
+  }
+
+  .chat3{
+    width: 236px;
+    height: 56px;
+    border: solid 1px black;
+  }
+
+  .chat4{
+    width: 236px;
+    height: 56px;
+    border: solid 1px black;
+  }
+
+
+  .chat5{
+    width: 236px;
+    height: 56px;
+    border: solid 1px black;
+  }
+
+  .chat6{
+    width: 236px;
+    height: 56px;
+    border: solid 1px black;
+  }
+
+  .chat7{
+    width: 236px;
+    height: 56px;
+    border: solid 1px black;
+  }
+
+
+
+  .im1{
+    align-content: end;
+  }
+
+
+  .barragrande1{
+    width: 1276px;
+    height: 72px;
+    border: solid 1px black;
+  }
+  .barragrande2{
+    width: 638px;
+    height: auto;
+    border: solid 1px black;
+  }
+  .barragrande3{
+    width: 638px;
+    height: auto;
+    border: solid 1px black;
+  }
+  .btn1{
+    width: 117px;
+    height: 40px;
+    border: solid 1px black;
+
+  }
+
+.btn2{
+    width: 32px;
+    height: 32px;
+    border: solid 1px black;
+    border-radius: 100%;
+
+  }
+
