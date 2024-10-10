@@ -1,0 +1,159 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+*{
+
+   margin:0;
+   padding: 0%;
+   box-sizing: border-box;
+   font-family: "Patua One", serif;
+}
+
+
+main{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(../img/rrr.jpg) ;
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+
+    display: flex;
+    grid-template-columns: repeat(2,50%) ;
+    padding: 20px;
+    gap: 10px;
+    width: 1000px;
+}
+
+.info{
+
+    display: flex;
+    color: aliceblue;
+    gap: 50px;
+}
+.info{
+
+    text-align: left;
+    letter-spacing: 5px;
+
+}
+
+.data{
+    background: rgba(97, 179, 220, 0.373);
+    box-shadow: 0 8px 32px 0 rgba(238, 239, 240, 0.211);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 1px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.data > p > i {
+    color: #8d1b1b01;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.links > a >i {
+
+    color: #ffffff;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+.links{
+    display: flex;
+    gap: 15px;
+}
+
+.links > a {
+    text-decoration: none;
+    width: 40px;
+    height: 40px;
+    background: #12040417;
+    text-align: center;
+    transition: .1s; 
+    color: #fff;
+}
+
+form{
+    width: 400px;
+    justify-content: center;
+    background: rgba(98, 163, 209, 0.203);
+    box-shadow: 0 8px 32px 0 rgba(95, 168, 221, 0.37);
+    backdrop-filter: blur( 1px );
+    -webkit-backdrop-filter: blur( 1px );
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.417);
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+    
+}
+
+.input-box{
+    position: relative;
+    
+}
+.input-box > input{
+
+    width: 300px;
+    height: 40px;
+    padding: 0 10px;
+    outline: none;
+    background: #70b1d2e8;
+    border: 3px solid transparent;
+    letter-spacing: 1px;
+    transition: .3s;
+    color: #fff;
+
+}
+
+.input-box > textarea {
+    width: 300px;
+    height: 130px;
+    background: #f0f3f500;
+    border: 2px solid ;
+    letter-spacing: 1px;
+    transition: .2s;
+    color: #fff;
+    padding: 0 10px;
+
+
+}
+
+input::placeholder{
+
+    color: #fff;
+}
+
+textarea::placeholder{
+    color: #fff;
+
+}
+
+textarea:focus{
+    outline: none;
+}
+
+button{
+
+    width: 200px;
+    background:#70b1d2e8;
+    margin: 0% auto;
+    color: #fff;
+    border: 3px solid;
+   
+
+    
+}
+
+
