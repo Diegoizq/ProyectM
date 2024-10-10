@@ -272,7 +272,7 @@
 .logb {
   width:30px ;
   height:30px ;
-  color: #6B7280;
+  color: #6B7280 !important;
 }
 .lg {
   text-decoration: none;
