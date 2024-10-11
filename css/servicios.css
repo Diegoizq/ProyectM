@@ -116,3 +116,67 @@ h1 {
     cursor: pointer;
 
   }
+
+@media(max-width:1200px ){
+    .hh{
+    width:600px !important;
+    display: flex;
+    margin-bottom: 150px;
+    }
+
+    .zz{
+    margin-bottom: -10px !important;
+    }
+    .vvv{
+      margin-top: 130px !important;
+    }
+    .pop{
+        display: flex;
+      justify-content: center;
+    }
+    .nnn{
+        margin-bottom: 50px !important;
+        gap: 20px !important;
+        display: flex;
+        
+      }
+  }
+ 
+
+  @media(max-width:800px){
+    .pha{
+        display: flex;
+        justify-content: center;
+        margin-top: 0;
+    }
+    .pho{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+    }
+    .phe{
+        display: flex;
+        justify-content: center;
+        margin-top: -14px;
+        }
+   
+    .card, .tar2, .tar4, .tar6{
+        width: 400px;
+    }
+    .card-title{
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .card-text{
+        font-size: 14px;
+    }
+    .btnx{
+        width: 130px;
+    }
+    .hh{
+        width: 400px !important;
+    }
+    h2{
+    display: flex;
+    justify-content: center;}
+  }
