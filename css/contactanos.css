@@ -6,22 +6,22 @@
    margin:0;
    padding: 0%;
    box-sizing: border-box;
-   font-family: "Patua One", serif;
+  
 }
 
 
 main{
-
+    font-family: "Patua One", serif;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image:url(../img/rrr.jpg) ;
+    background-image:url(../img/imagensanti.jpg) ;
     background-position: center center ;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-.container{
+.principal{
 
     display: flex;
     grid-template-columns: repeat(2,50%) ;
@@ -83,7 +83,7 @@ main{
     color: #fff;
 }
 
-form{
+.redactar{
     width: 400px;
     justify-content: center;
     background: rgba(98, 163, 209, 0.203);
@@ -144,7 +144,7 @@ textarea:focus{
     outline: none;
 }
 
-button{
+.san{
 
     width: 200px;
     background:#70b1d2e8;
