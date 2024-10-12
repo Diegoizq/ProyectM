@@ -1,0 +1,89 @@
+@media(max-width:874px){
+
+    .caja1{
+        display: none !important;
+    }
+
+}
+
+
+
+.caja1{
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+.caja2{
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+
+.logocrebro{
+    width: auto;
+    height: auto;
+}
+
+
+
+.loce{
+    width: 50px;
+    height: 50px;
+    
+}
+
+
+
+.contenido{
+    margin-top: 100px;
+}
+
+
+.chatB{
+    border: solid 1px black;
+    align-content: end;
+}
+
+.cajachat{
+    border-radius: 10px;
+    border: solid 1px black;
+}
+
+.conChatB{
+    
+    
+    height: 52px;
+    align-items: center;
+    
+}
+
+
+.tx1{
+    height: 24px;
+}
+
+
+.dato1:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.dato2:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.dato3:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.dato4:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
+
+.dato5:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
