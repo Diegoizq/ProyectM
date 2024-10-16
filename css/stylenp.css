@@ -71,6 +71,7 @@
     height: 100%;
     display: grid;
     place-items: center;
+    
   }
 
 
@@ -94,4 +95,7 @@
 
 body{
   background-color: rgb(228, 237, 239);
+}
+footer{
+  margin-top: 25px;
 }
