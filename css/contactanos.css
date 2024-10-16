@@ -56,9 +56,13 @@ main{
 }
 
 .data > p > i {
+    
     color: #8d1b1b01;
     margin-right: 10px;
     font-size: 25px;
+}
+.data {
+    padding: 20px 30px;
 }
 
 .links > a >i {
@@ -153,7 +157,11 @@ textarea:focus{
     border: 3px solid;
    
 
-    
+}
+.bggg {
+    display: flex;
+    align-items: center;
+    height: 585px;
 }
 
 

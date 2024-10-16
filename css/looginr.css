@@ -4,18 +4,7 @@
     border-radius: 10px;
     background-color: #bee6fa;
     box-shadow:  9px 9px 15px #9cc7fb,
-                      -9px -9px 15px #f7ffff;
-
-             /* ---------------------------- */
-
-             
-             
-         
-         
-            
-             
-             
-             
+                      -9px -9px 15px #f7ffff;     
             
 }   
 
@@ -72,4 +61,10 @@ h1 {
         rgba(8, 37, 126, 0.42) 100%
       ),
       rgba(72, 88, 235, 0.24);
+  }
+
+  @media(max-width:1050px){
+    .create{
+      width:  315px;
+    }
   }
