@@ -5,17 +5,25 @@
     }
 
 }
-
+body{
+    background-color: aliceblue;
+}
 
 
 .caja1{
-    border: solid 1px black;
-    border-radius: 10px;
+    border: solid 2px rgb(175, 172, 172);
+    border-end-start-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
 }
 
 .caja2{
-    border: solid 1px black;
-    border-radius: 10px;
+    border: solid 2px rgb(175, 172, 172);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(255, 255, 255);
+
 }
 
 
@@ -35,14 +43,11 @@
 
 
 .contenido{
-    margin-top: 100px;
+    margin: 10px 20px 20px 20px;
 }
 
 
-.chatB{
-    border: solid 1px black;
-    align-content: end;
-}
+
 
 .cajachat{
     border-radius: 10px;
@@ -86,4 +91,20 @@
 .dato5:hover{
     background-color: gray;
     border-radius: 5px;
+}
+.mlp{
+    
+    margin-top: 40px !important;
+    width: 700px;
+    
+    
+}
+.tre{
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+.input-group-text{
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255) !important;
 }
