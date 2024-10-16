@@ -124,6 +124,19 @@ box-shadow:  9px 9px 15px #9cc7fb,
     font-weight: 600;
     color: #333;
 }
+@media(max-width:1050px){
+  .yt{
+    display: none !important;
+  }
+  .mgn{
+    gap: 50px;
+  }
+}
+@media(max-width:620px){
+.jx{
+  display: none !important;
+}
+}
 
 
    
